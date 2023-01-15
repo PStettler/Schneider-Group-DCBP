@@ -1,5 +1,5 @@
 # Schneider-Group-DCBP
-This repository contains all algorithms created by the Schneider Group @ UniBE
+This repository contains algorithms created by the Schneider Group @ UniBE
 
 
 We work with <i>Trypanosoma brucei</i> and provide here methods for adapted <br>
